@@ -25,7 +25,8 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 </tr>
 </table>
 
-> ***Note***: *This project is an abstract business case created for academic purposes. While it was designed for maximum realism for a university course, it remains an educational model. For a deep dive into the data, analysis, and findings, please refer to the Final-Report.pdf repository file.*
+> [!NOTE]
+> *This project is an abstract business case created for academic purposes. While it was designed for maximum realism for a university course, it remains an educational model. For a deep dive into the data, analysis, and findings, please refer to the Final-Report.pdf repository file.*
 ---
 
 ## Final Report Contents
