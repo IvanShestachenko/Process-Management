@@ -52,9 +52,9 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 
 ## Technical Stack
 
-BPMN 2.0 notation
-Camunda Modeler
-BIMP simulation engine
+**BPMN 2.0 notation**
+**Camunda Modeler**
+**BIMP simulation engine**
 
 ---
 
