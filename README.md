@@ -6,16 +6,16 @@ This repository contains the complete analysis and simulation assets for the "Wh
 
 ## Final Report Contents
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Definition of Project Assignment and Goals
+2. General Description of the Business Environment
+3. Detailed Description of the AS-IS Delivery Process
+4. BPMN 2.0 Diagram of the AS-IS State
+5. AS-IS Simulation Methodology and Parameters
+6. Key Findings and Statistical Overview of Results
+7. Proposed Process Optimizations and Key Changes
+8. BPMN 2.0 Diagram of the TO-BE State
+9. Simulation Outputs of the TO-BE Model
+10. Final Evaluation and Conclusion
 
 ---
 
