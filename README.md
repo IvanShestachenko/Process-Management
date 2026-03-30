@@ -26,10 +26,12 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 </table>
 
 > [!NOTE]
-> *This project is based on an abstract business case that was created within this university course.
+> *This project is based on an abstract business case that was created within this university course.*
 
 > [!NOTE]
-> *Detailed research documentation and a comprehensive breakdown of the simulation findings are provided in the Final-Report.pdf repository file.*
+> *The Final-Report.pdf file provides comprehensive documentation of the entire research process. It includes detailed structural descriptions and BPMN
+> 2.0 diagrams for both the AS-IS and TO-BE versions of the process. Furthermore, the report contains a thorough breakdown of all simulation parameters and
+> results, offering a complete evaluation of the proposed optimizations.*
 
 ---
 
