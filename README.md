@@ -4,6 +4,13 @@ This repository contains the complete analysis and simulation assets for the "Wh
 
 ---
 
+## Project Description
+
+White Lily is a medium-sized florist shop network based in Prague that specializes in bouquet sales through physical branches, a web platform, and phone orders. The company operates a specialized climate-controlled warehouse for flower storage and maintains its own fleet of courier vans for customer deliveries and branch replenishment. However, the processes within this infrastructure tend to be chaotic: the delivery process was identified as a critical bottleneck, with 35% of orders failing to reach the customer. These failures were caused by four specific issues: **unanswered courier calls, customer absence at the destination, PIN verification mistakes, and quality-related refusals.** 
+The TO-BE process was optimized by implementing a **customer app** designed to unify order data. Key features include **live tracking, push-notified status updates, the option of dynamic rescheduling for early-stage time shifts, and QR code handovers instead of manual PINs.** Our model showed that this digital transformation in fact resulted in a successful increase in the delivery success rate from **65%** to **82%**. The optimization also led to lower average process costs and faster cycle times, while preserving normal courier resource utilization. 
+
+---
+
 ## Final Report Contents
 
 1. Definition of Project Assignment and Goals
@@ -22,8 +29,8 @@ This repository contains the complete analysis and simulation assets for the "Wh
 ## Important Links
 
 * [**Final Project Presentation**](https://prezi.com/p/ofwf8cssvori/prezentace-pro-kvetinarskou-sit-bila-lilie/?present=1) — A visual overview of the project results.
-* [**High-Resolution AS-IS BPMN Diagram**](https://drive.google.com/file/d/19p1x15PQ5t7jqJAYxQ1lunP2cYf3c27a/view) — Detailed view of the AS-IS version of the process with zoom capability (Google Drive).
-* [**High-Resolution TO-BE BPMN Diagram**](https://drive.google.com/file/d/1J2NPrXZfjF_tH71OxDWv2NO4tyNSQqC8/view) — Detailed view of the TO-BE version of the process with zoom capability (Google Drive).
+* [**High-Resolution AS-IS BPMN Diagram**](https://drive.google.com/file/d/19p1x15PQ5t7jqJAYxQ1lunP2cYf3c27a/view) — Detailed view of the AS-IS process diagram with zoom capability (Google Drive).
+* [**High-Resolution TO-BE BPMN Diagram**](https://drive.google.com/file/d/1J2NPrXZfjF_tH71OxDWv2NO4tyNSQqC8/view) — Detailed view of the TO-BE process diagram with zoom capability (Google Drive).
 
 ---
 
