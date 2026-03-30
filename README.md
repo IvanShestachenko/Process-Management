@@ -50,6 +50,14 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 
 ---
 
+## Technical Stack
+
+BPMN 2.0 notation
+Camunda Modeler
+BIMP simulation engine
+
+---
+
 ## Important Links
 
 * [**Final Project Presentation**](https://prezi.com/p/ofwf8cssvori/prezentace-pro-kvetinarskou-sit-bila-lilie/?present=1) — A visual overview of the project results.
