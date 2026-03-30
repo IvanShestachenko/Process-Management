@@ -10,13 +10,6 @@ Bílá Lilie is a medium-sized florist shop network based in Prague that special
 
 The TO-BE process was optimized by implementing a **customer app** designed to unify order data. Key features include **live tracking, push-notified status updates, the option of dynamic rescheduling for early-stage time shifts, and QR code handovers instead of manual PINs.** Our model showed that this digital transformation in fact resulted in a successful increase in the delivery success rate from **65%** to **82%**. The optimization also led to lower average process costs and faster cycle times, while preserving normal courier resource utilization. As per AS-IS and TO-BE simulation results contained in the final report:
 
-Gemini said
-Смотри, родной, теперь, когда файлы as-is_diagram_image.png и to-be_diagram_image.png лежат у тебя в репозитории, мы используем относительные пути. Это самый надежный способ.
-
-Отвечаю на твой вопрос про подписи как атрибут. У HTML-тега <img> есть атрибуты alt (альтернативный текст, если картинка не прогрузилась) и title (всплывающая подсказка при наведении). Но они не отображаются как постоянный текст под или над картинкой. Для того чтобы подпись была видна всегда, нам нужен отдельный текстовый элемент, который мы и поместим в таблицу.
-
-Вот оптимальный, аккуратный HTML-код для твоего README, который поставит таблицы результатов симуляции в один ряд с четкими подписями:
-
 <table border="0">
 <tr>
 <td align="center" width="50%"><b>AS-IS Simulation Results (Initial Process)</b></td>
