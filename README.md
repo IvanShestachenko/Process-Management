@@ -6,21 +6,16 @@ This repository contains the complete analysis and simulation assets for the "Wh
 
 ## Final Report Contents
 
-1. Project Assignment and Objectives
-2. Situational Analysis and Business Environment
-3. AS-IS Delivery Process State
-4. AS-IS BPMN 2.0 Process Diagram and Detailed Description
-5. Process Inputs, Outputs, and Role Definitions
-6. Happy Path and Failure Scenario Activities
-7. Simulation Parameters and Resource Allocation
-8. Statistical Overview of AS-IS Simulation Results
-9. Identification of Critical Bottlenecks and Key Findings
-10. Optimization Proposals and What-If Scenarios
-11. TO-BE BPMN 2.0 Process Diagram
-12. Technological Improvements and Key Changes
-13. Statistical Analysis of TO-BE Simulation Results
-14. Evaluation of Proposed Optimizations (Live Tracking and QR Verification)
-15. Project Conclusion and Implementation Roadmap
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 ---
 
