@@ -50,6 +50,18 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 
 ---
 
+## Process Diagrams
+
+**[High-Resolution AS-IS BPMN Diagram — Detailed view of the AS-IS process diagram with zoom capability (Google Drive)](https://drive.google.com/file/d/19p1x15PQ5t7jqJAYxQ1lunP2cYf3c27a/view)**
+![AS-IS Process Diagram](as-is_diagram_image.png)
+
+---
+
+**[High-Resolution TO-BE BPMN Diagram — Detailed view of the TO-BE process diagram with zoom capability (Google Drive)](https://drive.google.com/file/d/1J2NPrXZfjF_tH71OxDWv2NO4tyNSQqC8/view)**
+![TO-BE Process Diagram](to-be_diagram_image.png)
+
+---
+
 ## Project Leadership
 
 As the originator of the "Bílá lilie" business case, I was assigned the role of Team Leader from the project's inception. My leadership was driven by a high level of personal commitment, deep project awareness, and proactive engagement in reviewing the work of my teammates. As a Team Lead, I had the responsibility:
