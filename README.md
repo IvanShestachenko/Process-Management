@@ -50,7 +50,7 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 
 ---
 
-## Project Leaderaship
+## Project Leadership
 
 As the originator of the "Bílá lilie" business case, I was assigned the role of Team Leader from the project's inception. My leadership was driven by a high level of personal commitment, deep project awareness, and proactive engagement in reviewing the work of my teammates. As a Team Lead, I had the responsibility:
 - to be directly involved in every stage of process engineering and simulation;
