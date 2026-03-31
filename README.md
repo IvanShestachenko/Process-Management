@@ -70,7 +70,7 @@ As the originator of the "Bílá lilie" business case, I was assigned the role o
 - to be directly involved in every stage of process engineering and simulation;
 - to assure the quality of the submitted work;
 - to distribute tasks among the team members;
-- to represent our team at the meeting with our group's tutor
+- to represent our team at the meetings with our group's tutor;
 - to explain how the valid final form would have to look like and to help colleagues achieve it on their parts;
 - to communicate and to make things work in our international team of 4 members.
 
