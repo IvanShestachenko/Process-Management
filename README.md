@@ -37,32 +37,30 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 
 ## Final Report Contents
 
-1. Definition of Project Assignment and Goals
-2. General Description of the Business Environment
-3. Detailed Description of the AS-IS Delivery Process
-4. BPMN 2.0 Diagram of the AS-IS State
-5. AS-IS Simulation Methodology and Parameters
-6. Key Findings and Statistical Overview of Results
-7. Proposed Process Optimizations and Key Changes
-8. BPMN 2.0 Diagram of the TO-BE State
-9. Simulation Outputs of the TO-BE Model
-10. Final Evaluation and Conclusion
+1. Definition of project assignment and goals
+2. General description of the business environment
+3. Detailed description of the AS-IS delivery process
+4. BPMN 2.0 diagram of the AS-IS state
+5. AS-IS simulation methodology and parameters
+6. Key findings and statistical overview of results
+7. Proposed process optimizations and key changes
+8. BPMN 2.0 diagram of the TO-BE state
+9. Simulation outputs of the TO-BE model
+10. Final evaluation and conclusion
 
 ---
 
 ## Process Diagrams
 
 #### AS-IS Process Model
-[![View High-Res on Google Drive](https://img.shields.io/badge/Zoom_High--Res-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1esNtM1dZAa2sEIOcWWn_DB0_tsyJiqde/view?usp=sharing)
 
-![AS-IS Process Diagram](as-is_diagram_image.png)
+![AS-IS Process Diagram](as-is_diagram_image.svg)
 
 ---
 
 #### TO-BE Process Model
-[![View High-Res on Google Drive](https://img.shields.io/badge/Zoom_High--Res-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1najKmGVeAq1zEG33TIFBxE7DfVOoCbD0/view?usp=sharing)
 
-![TO-BE Process Diagram](to-be_diagram_image.png)
+![TO-BE Process Diagram](to-be_diagram_image.svg)
 
 ## Project Leadership
 
