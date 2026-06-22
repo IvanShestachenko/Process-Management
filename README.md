@@ -53,14 +53,16 @@ The TO-BE process was optimized by implementing a **customer app** designed to u
 ## Process Diagrams
 
 #### AS-IS Process Model
+[![View High-Res in Camunda Modeler](https://img.shields.io/badge/Zoom_High--Res-Camunda_Modeler-FF4A00?style=for-the-badge&logo=camunda)](https://modeler.camunda.io/share/cb3523b7-b93e-41b7-aa1f-2bf1b8ae2cf1)
 
-![AS-IS Process Diagram](as-is_diagram_image.svg)
+![AS-IS Process Diagram](as-is_diagram_image.png)
 
 ---
 
 #### TO-BE Process Model
+[![View High-Res in Camunda Modeler](https://img.shields.io/badge/Zoom_High--Res-Camunda_Modeler-FF4A00?style=for-the-badge&logo=camunda)](https://modeler.camunda.io/share/a79c49f1-3733-42aa-b77e-d8f204c5a7fa)
 
-![TO-BE Process Diagram](to-be_diagram_image.svg)
+![TO-BE Process Diagram](to-be_diagram_image.png)
 
 ## Project Leadership
 
@@ -85,8 +87,8 @@ As the originator of the "Bílá lilie" business case, I was assigned the role o
 ## Important Links
 
 * [**Final Project Presentation**](https://prezi.com/p/ofwf8cssvori/prezentace-pro-kvetinarskou-sit-bila-lilie/?present=1) — A visual overview of the project results.
-* [**High-Resolution AS-IS BPMN Diagram**](https://drive.google.com/file/d/19p1x15PQ5t7jqJAYxQ1lunP2cYf3c27a/view) — Detailed view of the AS-IS process diagram with zoom capability (Google Drive).
-* [**High-Resolution TO-BE BPMN Diagram**](https://drive.google.com/file/d/1J2NPrXZfjF_tH71OxDWv2NO4tyNSQqC8/view) — Detailed view of the TO-BE process diagram with zoom capability (Google Drive).
+* [**High-Resolution AS-IS BPMN Diagram**](https://modeler.camunda.io/share/cb3523b7-b93e-41b7-aa1f-2bf1b8ae2cf1) — Detailed view of the AS-IS process diagram with zoom capability (Camunda Modeler).
+* [**High-Resolution TO-BE BPMN Diagram**](https://modeler.camunda.io/share/a79c49f1-3733-42aa-b77e-d8f204c5a7fa) — Detailed view of the TO-BE process diagram with zoom capability (Camunda Modeler).
 
 ---
 
